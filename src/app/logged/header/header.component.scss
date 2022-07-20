@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+}
+
+section {
+  display: table;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  font-size: 20px;
+}
+
+a{
+  font: bold;
+  text-decoration: none;
+}
